@@ -4,16 +4,13 @@
        url('/fonts/sinkinsans-700bold-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
-
 @font-face {
   font-family: 'cabin';
   src: url('/fonts/cabin-regular-webfont.woff2') format('woff2'),
        url('/fonts/cabin-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 
 /* General setup */
