@@ -70,7 +70,7 @@ a:active {
   background-color: rgb(237, 186, 186);
 }
 a[href*="http"] {
-  background: url('/images/external-link-52.png') no-repeat 100% 0;
+  background: url('images/external-link-52.png') no-repeat 100% 0;
   background-size: 15px 15px;
   padding-right: 19px;
 }
@@ -93,7 +93,7 @@ nav {
 }
 
 ul {
-  list-style-image: url(/images/bullet-2.png);
+  list-style-image: url(images/bullet-2.png);
 }
 
 nav ul {
