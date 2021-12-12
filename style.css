@@ -21,58 +21,22 @@
 * {
   box-sizing: border-box;
 }
+html {
+  font-size: 10px;
+}
 
 body {
   margin: 0 auto;
   min-width: 1000px;
   max-width: 1400px;
-}
-
-/* Layout */
-
-section {
-  float: left;
-  width: 50%;
-}
-
-aside {
-  float: left;
-  width: 30%;
-}
-
-nav {
-  float: left;
-  width: 20%;
-}
-
-footer {
-  clear: both;
-}
-
-header, section, aside, nav, footer {
-  padding: 20px;
-}
-
-/* header and footer */
-
-header, footer {
-  border-top: 5px solid #a66;
-  border-bottom: 5px solid #a66;
-}
-
-/* WRITE YOUR CODE BELOW HERE */
-html {
-  font-size: 10px;
-}
-body {
-  font-family: 'sinkin_sans700_bold', sans-serif;
-  font-size: 1.6rem;
-  line-height: 1.7;
+  font-family: 'cabinregular', sans-serif;
+  font-size: 2rem;
+  line-height: 1.9;
   letter-spacing: 1px;
   word-spacing: 1px;
 }
 h1,h2 {
-  font-family: 'cabinregular', sans-serif;
+  font-family: 'sinkin_sans700_bold', sans-serif;
   font-weight: bolder;
   letter-spacing: 1.7px;
 }
@@ -121,3 +85,38 @@ nav li:hover {
 nav a {
   text-decoration: none;
 }
+
+/* Layout */
+
+section {
+  float: left;
+  width: 50%;
+}
+
+aside {
+  float: left;
+  width: 30%;
+}
+
+nav {
+  float: left;
+  width: 20%;
+}
+
+footer {
+  clear: both;
+}
+
+header, section, aside, nav, footer {
+  padding: 20px;
+}
+
+/* header and footer */
+
+header, footer {
+  border-top: 5px solid #a66;
+  border-bottom: 5px solid #a66;
+}
+
+
+
