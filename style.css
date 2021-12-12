@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'sinkin_sans700_bold';
+  font-family: 'sinkin sans';
   src: url('/fonts/sinkinsans-700bold-webfont.woff2') format('woff2'),
        url('/fonts/sinkinsans-700bold-webfont.woff') format('woff');
   font-weight: normal;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: 'cabinregular';
+  font-family: 'cabin';
   src: url('/fonts/cabin-regular-webfont.woff2') format('woff2'),
        url('/fonts/cabin-regular-webfont.woff') format('woff');
   font-weight: normal;
@@ -29,14 +29,14 @@ body {
   margin: 0 auto;
   min-width: 1000px;
   max-width: 1400px;
-  font-family: 'cabinregular', sans-serif;
+  font-family: 'cabin', sans-serif;
   font-size: 2rem;
   line-height: 1.9;
   letter-spacing: 1px;
   word-spacing: 1px;
 }
 h1,h2 {
-  font-family: 'sinkin_sans700_bold', sans-serif;
+  font-family: 'sinkin sans', sans-serif;
   font-weight: bolder;
   letter-spacing: 1.7px;
 }
