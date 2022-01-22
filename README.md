@@ -11,7 +11,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_ho
 
  ### YouTube Video (me doing the project):
 
-**JasheleTechTV** - Soon .. I won't be completing the whole project on video but I learned something new with web fonts so I'll be talking about that
+**JasheleTechTV** - https://youtu.be/svzEe4r78Pw .. Not the entire project but I learned something new with web fonts so I'll be talking about that
 
 
 
